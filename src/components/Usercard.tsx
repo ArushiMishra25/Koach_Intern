@@ -1,5 +1,3 @@
-import React from 'react'
-
 interface UserCardProps {
   name: string; 
   email: string;

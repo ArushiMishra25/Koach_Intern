@@ -1,8 +1,6 @@
-import React from 'react'
 import axios from 'axios'
 import { useState, useEffect } from 'react'
 import Usercard from './Usercard'
-import Posts from './Posts'
 import { useNavigate } from 'react-router-dom'
 
 const Userprofile = () => {
